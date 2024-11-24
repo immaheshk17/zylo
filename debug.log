@@ -1,0 +1,374 @@
+INFO 2024-11-24 06:38:39,272 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 06:49:02,333 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 06:49:02,792 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 06:49:09,163 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 06:50:05,755 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-24 06:50:08,337 log Bad Request: /authentication/register/
+WARNING 2024-11-24 06:50:08,338 basehttp "POST /authentication/register/ HTTP/1.1" 400 57
+INFO 2024-11-24 06:50:15,005 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 06:50:39,457 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 06:50:39,777 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-24 06:50:44,869 log Not Found: /
+WARNING 2024-11-24 06:50:44,869 basehttp "GET / HTTP/1.1" 404 2172
+WARNING 2024-11-24 06:50:45,004 log Not Found: /favicon.ico
+WARNING 2024-11-24 06:50:45,005 basehttp "GET /favicon.ico HTTP/1.1" 404 2223
+WARNING 2024-11-24 06:50:54,017 log Bad Request: /authentication/register/
+WARNING 2024-11-24 06:50:54,017 basehttp "POST /authentication/register/ HTTP/1.1" 400 57
+INFO 2024-11-24 06:50:57,675 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 06:51:06,854 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 06:56:06,432 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 06:56:06,758 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 06:57:01,665 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 06:57:01,967 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 06:57:05,960 service User data saved.
+INFO 2024-11-24 06:57:06,180 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 07:03:54,481 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 07:03:54,822 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:26:45,163 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:26:45,515 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:37:06,969 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:37:07,322 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:37:17,599 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:37:17,882 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:38:14,730 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:38:15,055 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:38:27,368 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:38:27,663 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:38:34,853 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:38:35,155 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:38:43,401 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:38:43,693 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:38:56,917 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:38:57,220 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:39:19,620 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:39:19,922 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:39:23,033 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:39:23,213 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:39:36,483 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:39:36,787 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:39:43,961 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:39:44,240 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:39:49,368 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:39:49,637 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:39:56,787 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:39:57,040 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:40:06,222 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:40:06,468 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:40:11,578 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:40:11,809 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:40:18,956 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:40:19,183 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:40:22,284 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:40:22,498 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:43:21,426 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:43:21,765 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:50:02,183 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:50:02,508 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:50:30,001 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 07:50:30,287 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:50:36,520 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:51:27,297 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 07:51:27,623 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:53:09,162 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 07:53:09,482 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:53:36,875 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 07:53:37,166 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:54:32,137 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 07:54:32,482 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:54:35,789 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:55:10,816 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:55:55,420 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:56:40,156 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/service.py changed, reloading.
+INFO 2024-11-24 07:56:40,456 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:57:00,906 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py changed, reloading.
+INFO 2024-11-24 07:57:01,192 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 07:57:08,070 service User data saved.
+INFO 2024-11-24 07:57:08,070 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 08:00:05,039 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py changed, reloading.
+INFO 2024-11-24 08:00:05,345 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:01:08,303 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py changed, reloading.
+INFO 2024-11-24 08:01:08,699 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:04:48,851 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:04:49,169 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:07:56,320 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:07:56,646 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:14:05,069 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py changed, reloading.
+INFO 2024-11-24 08:14:05,387 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:15:40,944 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/urls.py changed, reloading.
+INFO 2024-11-24 08:15:41,324 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-24 08:16:04,234 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 14, in check_login_details
+    user = User.objects.get(user_name = username)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+authentication.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 9!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 35, in user_login
+    user = check_login_details(login_data)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 20, in check_login_details
+    raise DoesNotExists()
+authentication.exception.custom_exception.DoesNotExists: User with provided creds doesn't exists.
+ERROR 2024-11-24 08:16:04,244 basehttp "POST /authentication/login/ HTTP/1.1" 500 106494
+INFO 2024-11-24 08:18:39,119 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:18:39,427 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-24 08:18:40,386 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 15, in check_login_details
+    user = User.objects.get(user_name = username)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+authentication.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 9!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 35, in user_login
+    user = check_login_details(login_data)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 22, in check_login_details
+    raise DoesNotExists()
+authentication.exception.custom_exception.DoesNotExists: User with provided creds doesn't exists.
+ERROR 2024-11-24 08:18:40,393 basehttp "POST /authentication/login/ HTTP/1.1" 500 106597
+INFO 2024-11-24 08:21:19,245 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-24 08:21:22,776 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 15, in check_login_details
+    user = User.objects.get(user_name = username)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+authentication.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 9!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 35, in user_login
+    user = check_login_details(login_data)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 22, in check_login_details
+    raise DoesNotExists()
+authentication.exception.custom_exception.DoesNotExists: User with provided creds doesn't exists.
+ERROR 2024-11-24 08:21:22,783 basehttp "POST /authentication/login/ HTTP/1.1" 500 106597
+INFO 2024-11-24 08:22:54,820 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:22:55,168 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-24 08:22:57,363 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 15, in check_login_details
+    user = User.objects.get(user_name = username)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+authentication.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 9!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 35, in user_login
+    user = check_login_details(login_data)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 23, in check_login_details
+    raise DoesNotExists()
+authentication.exception.custom_exception.DoesNotExists: User with provided creds doesn't exists.
+ERROR 2024-11-24 08:22:57,372 basehttp "POST /authentication/login/ HTTP/1.1" 500 106552
+INFO 2024-11-24 08:23:12,032 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-24 08:23:13,981 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 15, in check_login_details
+    user = User.objects.get(user_name = username)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+authentication.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 9!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 35, in user_login
+    user = check_login_details(login_data)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 23, in check_login_details
+    raise DoesNotExists()
+authentication.exception.custom_exception.DoesNotExists: User with provided creds doesn't exists.
+ERROR 2024-11-24 08:23:13,990 basehttp "POST /authentication/login/ HTTP/1.1" 500 106552
+INFO 2024-11-24 08:26:21,198 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:26:21,557 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:32:03,521 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:32:03,830 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:32:08,462 autoreload Watching for file changes with StatReloader
+ERROR 2024-11-24 08:32:13,791 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 17, in check_login_details
+    user = User.objects.get(user_name = username)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/db/models/query.py", line 640, in get
+    raise self.model.MultipleObjectsReturned(
+authentication.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 9!
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 35, in user_login
+    user = check_login_details(login_data)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py", line 25, in check_login_details
+    raise DoesNotExists()
+authentication.exception.custom_exception.DoesNotExists: User with provided creds doesn't exists.
+ERROR 2024-11-24 08:32:13,800 basehttp "POST /authentication/login/ HTTP/1.1" 500 106553
+WARNING 2024-11-24 08:32:21,790 log Bad Request: /authentication/register/
+WARNING 2024-11-24 08:32:21,790 basehttp "POST /authentication/register/ HTTP/1.1" 400 97
+INFO 2024-11-24 08:32:32,276 service User data saved.
+INFO 2024-11-24 08:32:32,276 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+INFO 2024-11-24 08:32:47,365 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:32:47,694 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-24 08:32:53,889 log Bad Request: /authentication/register/
+WARNING 2024-11-24 08:32:53,891 basehttp "POST /authentication/register/ HTTP/1.1" 400 97
+WARNING 2024-11-24 08:32:57,804 log Bad Request: /authentication/register/
+WARNING 2024-11-24 08:32:57,804 basehttp "POST /authentication/register/ HTTP/1.1" 400 97
+INFO 2024-11-24 08:33:23,701 service User data saved.
+INFO 2024-11-24 08:33:23,702 basehttp "POST /authentication/register/ HTTP/1.1" 201 35
+ERROR 2024-11-24 08:33:32,087 log Internal Server Error: /authentication/login/
+Traceback (most recent call last):
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/venv/lib/python3.9/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py", line 37, in user_login
+    return Response(data=f"{user['Name']}'s login completed.", status=status.HTTP_201_CREATED)
+TypeError: 'User' object is not subscriptable
+ERROR 2024-11-24 08:33:32,091 basehttp "POST /authentication/login/ HTTP/1.1" 500 90622
+INFO 2024-11-24 08:34:31,674 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/db/db_ops.py changed, reloading.
+INFO 2024-11-24 08:34:31,981 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:34:34,842 basehttp "POST /authentication/login/ HTTP/1.1" 201 27
+INFO 2024-11-24 08:34:44,375 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py changed, reloading.
+INFO 2024-11-24 08:34:44,652 autoreload Watching for file changes with StatReloader
+INFO 2024-11-24 08:36:47,228 autoreload /Users/maheshkumar/Projects/services/zylo/zylo/authentication/views.py changed, reloading.
+INFO 2024-11-24 08:36:47,541 autoreload Watching for file changes with StatReloader
